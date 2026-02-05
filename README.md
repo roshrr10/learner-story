@@ -1,3 +1,13 @@
+---
+title: Learner Story
+emoji: 📘
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: dashboard.py
+pinned: false
+---
+
 # Learner Story Dashboard
 
 Interactive Streamlit dashboard visualizing student learning journeys, skill improvements, and breakthrough moments.
