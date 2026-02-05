@@ -1,0 +1,1018 @@
+=====================================
+ LEARNER STORY SUMMARY REPORT
+=====================================
+
+--- TOP 20 IMPROVERS (MD > 15%, Imp > 40%, Practice > 75%, Sessions > 20) ---
+Student: BUDDA SRICHARAN (20010142111)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, MEDCHEL | School: MPPS RLY STATION RAOD (36210102711)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 25.6% → Final (Practice) 90.7% (Imp: 65.1%)
+Exit MD Accuracy: 84.5%
+Effort: 23 sessions, 759 mins, 1861 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 5 + 3 = ? (answered 15); 4 + 0 = ? (answered 0)
+Sample Masteries: 16 - 7 = 9; 13 - 8 = 5; 201 - 40 = 161
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '41.7%', 'Class 2': '28.6%', 'Class 3': '4.2%'}
+Practice Accuracy Table: {'Class 1': '91.4%', 'Class 2': '89.4%', 'Class 3': '92.9%'}
+MD Operation Breakdown:
+  Class 1: +: 0.0%, -: 83.3%
+  Class 2: +: 0.0%, -: 33.3%, ×: 100.0%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 8.3%
+Practice Operation Breakdown:
+  Class 1: +: 92.0%, -: 88.6%
+  Class 2: +: 96.9%, -: 80.4%, ÷: 91.2%
+  Class 3: +: 95.6%, -: 89.2%
+-------------------------------------
+Student: KUNCHAPU HARSHITHA (20012290849)
+Class: 4 | Type: TARGET
+Location: YADADRI BHUVANAGIRI, RAMANNAPETA | School: MPPS HW INDRAPALANAGARAM (36201200101)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 25.0% → Final (Practice) 88.6% (Imp: 63.6%)
+Exit MD Accuracy: 83.3%
+Effort: 22 sessions, 561 mins, 992 attempts
+Sample Mistakes: 7 + 7 = ? (answered 77); 3 + 9 = ? (answered 39); 6 + 8 = ? (answered 68)
+Sample Masteries: 99 - 9 = None; 97 - 3 = None; 18 - 4 = None
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '37.5%', 'Class 2': '12.5%'}
+Practice Accuracy Table: {'Class 1': '86.1%', 'Class 2': '90.4%'}
+MD Operation Breakdown:
+  Class 1: +: 16.7%, -: 58.3%
+  Class 2: +: 8.3%, -: 16.7%
+Practice Operation Breakdown:
+  Class 1: +: 87.6%, -: 84.2%
+  Class 2: +: 93.0%, -: 77.5%
+-------------------------------------
+Student: ONNALA SUCHARITH (20473309493)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, MEDCHEL | School: MPPS RLY STATION RAOD (36210102711)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 25.5% → Final (Practice) 88.4% (Imp: 62.9%)
+Exit MD Accuracy: 71.8%
+Effort: 42 sessions, 1478 mins, 2223 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 5 + 3 = ? (answered 15); 4 + 0 = ? (answered 0)
+Sample Masteries: 0 × 0 = 24; 0 × 0 = 30; 0 × 0 = 36
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '21.4%', 'Class 3': '12.5%'}
+Practice Accuracy Table: {'Class 1': '96.9%', 'Class 2': '85.5%', 'Class 3': '88.1%'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 50.0%
+  Class 2: +: 58.3%, -: 8.3%, ×: 12.5%, ÷: 0.0%
+  Class 3: +: 8.3%, -: 8.3%, ×: 18.8%
+Practice Operation Breakdown:
+  Class 1: +: 96.5%, -: 97.5%
+  Class 2: +: 95.7%, -: 77.4%, ×: 94.9%, ÷: 32.4%
+  Class 3: +: 92.3%, -: 84.1%, ×: 100.0%
+-------------------------------------
+Student: SANDEEP KAMBLE (22976816486)
+Class: 4 | Type: TARGET
+Location: HYDERABAD, NAMPALLY | School: GOVT. PS(M)ALIYA,GUNFOUNDRY (36220690124)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 37.8% → Final (Practice) 94.6% (Imp: 56.8%)
+Exit MD Accuracy: 100.0%
+Effort: 36 sessions, 854 mins, 1687 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 5 + 3 = ? (answered 15); 1 + 4 = ? (answered 4)
+Sample Masteries: 122 - 3 = 119; 440 - 7 = 433; 330 - 4 = 326
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '12.5%', 'Class 2': '33.3%', 'Class 3': '70.8%'}
+Practice Accuracy Table: {'Class 1': '97.6%', 'Class 2': '92.6%', 'Class 3': '99.0%'}
+MD Operation Breakdown:
+  Class 1: +: 16.7%, -: 8.3%
+  Class 2: +: 0.0%, -: 8.3%, ×: 62.5%, ÷: 80.0%
+  Class 3: +: 75.0%, -: 66.7%
+Practice Operation Breakdown:
+  Class 1: +: 96.0%, -: 99.4%
+  Class 2: +: 94.9%, -: 88.8%, ×: 100.0%
+  Class 3: +: 99.2%, -: 98.5%
+-------------------------------------
+Student: M SATISH KUMAR (20748218247)
+Class: 4 | Type: TARGET
+Location: HYDERABAD, SHAIKPET | School: PMSHRI GOVT. PS SHAIKPET(VIL), SHAIKPET (MANDAL) (36220790125)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 33.3% → Final (Practice) 88.4% (Imp: 55.1%)
+Exit MD Accuracy: 91.7%
+Effort: 24 sessions, 721 mins, 1226 attempts
+Sample Mistakes: 4 + 7 = ? (answered 1); 7 + 9 = ? (answered 1); 8 + 5 = ? (answered 1)
+Sample Masteries: 15 ÷ 3 = 5; 10 ÷ 5 = 2; 8 ÷ 2 = 4
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '66.7%', 'Class 2': '23.8%', 'Class 3': '0.0%'}
+Practice Accuracy Table: {'Class 1': '90.0%', 'Class 2': '88.0%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 41.7%, -: 91.7%
+  Class 2: +: 0.0%, -: 16.7%, ×: 87.5%, ÷: 10.0%
+  Class 3: +: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 90.0%
+  Class 2: +: 92.7%, -: 82.8%, ÷: 94.1%
+-------------------------------------
+Student: GOLLA SAHASRA (23483104813)
+Class: 4 | Type: TARGET
+Location: NARAYANPET, KOSGI | School: MPPS KOSGI (GM) (36331101019)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 33.3% → Final (Practice) 88.2% (Imp: 54.9%)
+Exit MD Accuracy: 16.7%
+Effort: 22 sessions, 537 mins, 918 attempts
+Sample Mistakes: 4 + 7 = ? (answered 9); 7 + 9 = ? (answered 15); 8 + 5 = ? (answered 31)
+Sample Masteries: 0 - 0 = 51; 62 - 1 = 61; 56 - 4 = 52
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '70.8%', 'Class 2': '8.3%', 'Class 3': '8.3%'}
+Practice Accuracy Table: {'Class 1': '95.5%', 'Class 2': '85.8%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 83.3%
+  Class 2: +: 8.3%, -: 8.3%
+  Class 3: +: 8.3%
+Practice Operation Breakdown:
+  Class 1: +: 95.5%
+  Class 2: +: 92.7%, -: 70.3%
+-------------------------------------
+Student: BADABANDALA SHRINITHA (20030444683)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, SHAMIRPET | School: MPPS THUMKUNTA (36211202101)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 25.6% → Final (Practice) 79.4% (Imp: 53.8%)
+Exit MD Accuracy: 65.4%
+Effort: 36 sessions, 1174 mins, 1884 attempts
+Sample Mistakes: 2 + 7 = ? (answered 8); 7 + 9 = ? (answered 15); 7 + 7 = ? (answered 18)
+Sample Masteries: 917 - 508 = 409; 346 - 7 = 339; 506 - 253 = 253
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '33.3%', 'Class 2': '23.8%', 'Class 3': '20.8%'}
+Practice Accuracy Table: {'Class 1': '85.2%', 'Class 2': '73.8%', 'Class 3': '88.9%'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 8.3%
+  Class 2: +: 41.7%, -: 41.7%, ×: 0.0%, ÷: 0.0%
+  Class 3: +: 8.3%, -: 33.3%
+Practice Operation Breakdown:
+  Class 1: +: 86.1%, -: 84.2%
+  Class 2: +: 82.5%, -: 64.6%, ×: 79.5%, ÷: 64.7%
+  Class 3: +: 89.3%, -: 87.3%
+-------------------------------------
+Student: E SRINIDHI (20091781783)
+Class: 4 | Type: TARGET
+Location: JOGULAMBA GADWAL, ITIKYAL | School: MPPS VAVILALA (36260401201)
+Level: Started 2 → Reached 2 (Jump: 0)
+Accuracy: MD 41.7% → Final (Practice) 95.4% (Imp: 53.7%)
+Exit MD Accuracy: 0.0%
+Effort: 21 sessions, 152 mins, 348 attempts
+Sample Mistakes: 6 + 8 = ? (answered 13); 9 + 9 = ? (answered 14); 14 + 2 = ? (answered 10)
+Sample Masteries: 46 + 6 = 52; 0 + 0 = 31; 0 + 0 = 92
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '83.3%', 'Class 2': '0.0%'}
+Practice Accuracy Table: {'Class 1': '-', 'Class 2': '95.4%'}
+MD Operation Breakdown:
+  Class 1: +: 83.3%
+  Class 2: +: 0.0%
+Practice Operation Breakdown:
+  Class 2: +: 95.4%
+-------------------------------------
+Student: ABDUL AJEEM (20096127300)
+Class: 4 | Type: TARGET
+Location: JOGULAMBA GADWAL, YERRAVALLI | School: MPPS VALLUR (36260401701)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 31.2% → Final (Practice) 84.0% (Imp: 52.8%)
+Exit MD Accuracy: 41.7%
+Effort: 26 sessions, 335 mins, 782 attempts
+Sample Mistakes: 4 + 0 = ? (answered 0); 1 + 4 = ? (answered 4); 0 + 6 = ? (answered None)
+Sample Masteries: 78 - 45 = None; 61 - 10 = None; 82 - 40 = None
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '50.0%', 'Class 2': '12.5%'}
+Practice Accuracy Table: {'Class 1': '81.6%', 'Class 2': '85.3%'}
+MD Operation Breakdown:
+  Class 1: +: 41.7%, -: 58.3%
+  Class 2: +: 25.0%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 91.5%, -: 36.4%
+  Class 2: +: 85.5%, -: 80.0%
+-------------------------------------
+Student: P TEJASRI (20020862140)
+Class: 4 | Type: TARGET
+Location: NARAYANPET, NARAYANPET | School: MPPS KOLLAMPALLE (36330202401)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 30.0% → Final (Practice) 82.1% (Imp: 52.1%)
+Exit MD Accuracy: 79.2%
+Effort: 22 sessions, 1144 mins, 1315 attempts
+Sample Mistakes: 0 + 6 = ? (answered 5); 7 + 9 = ? (answered 7); 8 + 5 = ? (answered 65)
+Sample Masteries: 0 - 0 = 0; 0 - 0 = 22; 0 - 0 = 65
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '50.0%', 'Class 2': '16.7%', 'Class 3': '16.7%'}
+Practice Accuracy Table: {'Class 1': '85.8%', 'Class 2': '80.6%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 41.7%
+  Class 2: +: 25.0%, -: 8.3%
+  Class 3: +: 16.7%
+Practice Operation Breakdown:
+  Class 1: +: 85.6%, -: 86.1%
+  Class 2: +: 84.0%, -: 76.5%
+-------------------------------------
+Student: SRIKAR (22981603506)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, MEDCHEL | School: MPPS RLY STATION RAOD (36210102711)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 33.3% → Final (Practice) 85.2% (Imp: 51.9%)
+Exit MD Accuracy: 51.7%
+Effort: 35 sessions, 1219 mins, 1586 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 5 + 3 = ? (answered 15); 4 + 7 = ? (answered 28)
+Sample Masteries: 0 - 0 = None; 0 - 0 = None; 0 - 0 = None
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '62.5%', 'Class 2': '26.2%', 'Class 3': '16.7%'}
+Practice Accuracy Table: {'Class 1': '92.0%', 'Class 2': '81.0%', 'Class 3': '93.2%'}
+MD Operation Breakdown:
+  Class 1: +: 25.0%, -: 100.0%
+  Class 2: +: 0.0%, -: 25.0%, ×: 87.5%, ÷: 10.0%
+  Class 3: +: 8.3%, -: 25.0%
+Practice Operation Breakdown:
+  Class 1: +: 92.0%
+  Class 2: +: 90.7%, -: 71.3%, ÷: 76.5%
+  Class 3: +: 92.6%, -: 97.3%
+-------------------------------------
+Student: N/A (22655755883)
+Class: 4 | Type: N/A
+Location: N/A, N/A | School: N/A (N/A)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 36.7% → Final (Practice) 88.2% (Imp: 51.5%)
+Exit MD Accuracy: 100.0%
+Effort: 22 sessions, 923 mins, 1338 attempts
+Sample Mistakes: 0 + 6 = ? (answered 0); 7 + 9 = ? (answered 60); 3 + 9 = ? (answered 122)
+Sample Masteries: 19 - 4 = 15; 59 - 0 = 59; 61 - 2 = 59
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '37.5%', 'Class 2': '37.5%', 'Class 3': '33.3%'}
+Practice Accuracy Table: {'Class 1': '94.7%', 'Class 2': '85.5%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 66.7%, -: 8.3%
+  Class 2: +: 50.0%, -: 25.0%
+  Class 3: +: 33.3%
+Practice Operation Breakdown:
+  Class 1: +: 92.0%, -: 98.1%
+  Class 2: +: 93.6%, -: 76.9%
+-------------------------------------
+Student: PANDLI PALGUNA (20003592318)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, SHAMIRPET | School: MPPS THUMKUNTA (36211202101)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 32.2% → Final (Practice) 83.4% (Imp: 51.2%)
+Exit MD Accuracy: 64.4%
+Effort: 39 sessions, 1540 mins, 2079 attempts
+Sample Mistakes: 9 - 6 = ? (answered 15); 7 - 7 = ? (answered 14); 8 - 5 = ? (answered 13)
+Sample Masteries: 606 - 2 = 604; 500 - 275 = 225; 837 - 537 = 300
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '33.3%', 'Class 3': '8.3%'}
+Practice Accuracy Table: {'Class 1': '89.4%', 'Class 2': '82.1%', 'Class 3': '84.0%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 41.7%, -: 8.3%, ×: 100.0%, ÷: 0.0%
+  Class 3: +: 16.7%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 89.4%
+  Class 2: +: 91.5%, -: 75.5%, ÷: 73.5%
+  Class 3: +: 80.9%, -: 86.4%
+-------------------------------------
+Student: NOOR FATIMA (20014014690)
+Class: 4 | Type: TARGET
+Location: HYDERABAD, NAMPALLY | School: GOVT. PS(G)MAHABOOBIA, GUNFOUNDRY (36220690125)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 33.3% → Final (Practice) 84.0% (Imp: 50.7%)
+Exit MD Accuracy: 58.3%
+Effort: 36 sessions, 1784 mins, 1497 attempts
+Sample Mistakes: 2 + 7 = ? (answered 7); 4 + 0 = ? (answered 0); 7 + 9 = ? (answered 61)
+Sample Masteries: 201 + 292 = 493; 300 + 500 = 800; 415 + 550 = 965
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '50.0%', 'Class 2': '20.8%', 'Class 3': '25.0%'}
+Practice Accuracy Table: {'Class 1': '87.7%', 'Class 2': '86.6%', 'Class 3': '72.1%'}
+MD Operation Breakdown:
+  Class 1: +: 75.0%, -: 25.0%
+  Class 2: +: 33.3%, -: 8.3%
+  Class 3: +: 25.0%
+Practice Operation Breakdown:
+  Class 1: +: 87.1%, -: 88.6%
+  Class 2: +: 87.7%, -: 85.0%
+  Class 3: +: 72.1%
+-------------------------------------
+Student: ANTHADPULA RISHITHA (20051438113)
+Class: 4 | Type: TARGET
+Location: JAGITIAL, MEDIPALLY | School: MPPS THOMBARRAOPET (36061000301)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 38.3% → Final (Practice) 88.9% (Imp: 50.6%)
+Exit MD Accuracy: 91.7%
+Effort: 28 sessions, 725 mins, 934 attempts
+Sample Mistakes: 5 + 3 = ? (answered 9); 4 + 7 = ? (answered 10); 7 + 9 = ? (answered 18)
+Sample Masteries: 43 - 0 = 43; 70 - 0 = 70; 16 - 0 = 16
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '58.3%', 'Class 2': '33.3%', 'Class 3': '8.3%'}
+Practice Accuracy Table: {'Class 1': '91.8%', 'Class 2': '87.7%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 50.0%, -: 66.7%
+  Class 2: +: 41.7%, -: 25.0%
+  Class 3: +: 8.3%
+Practice Operation Breakdown:
+  Class 1: +: 90.5%, -: 97.7%
+  Class 2: +: 88.4%, -: 85.8%
+-------------------------------------
+Student: TURKARIGARI SUHASINI (20545108706)
+Class: 4 | Type: TARGET
+Location: HYDERABAD, NAMPALLY | School: GOVT. PS(G)MAHABOOBIA, GUNFOUNDRY (36220690125)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 26.4% → Final (Practice) 76.2% (Imp: 49.8%)
+Exit MD Accuracy: 92.9%
+Effort: 42 sessions, 1653 mins, 2064 attempts
+Sample Mistakes: 7 + 7 = ? (answered 13); 11 - 2 = ? (answered 232); 6 - 4 = ? (answered 46)
+Sample Masteries: 42 × 5 = 210; 26 × 4 = 104; 38 × 3 = 114
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '28.6%', 'Class 3': '7.5%'}
+Practice Accuracy Table: {'Class 1': '86.1%', 'Class 2': '78.5%', 'Class 3': '71.5%'}
+MD Operation Breakdown:
+  Class 1: +: 91.7%, -: 16.7%
+  Class 2: +: 25.0%, -: 8.3%, ×: 87.5%, ÷: 10.0%
+  Class 3: +: 0.0%, -: 8.3%, ×: 12.5%
+Practice Operation Breakdown:
+  Class 1: -: 86.1%
+  Class 2: +: 74.8%, -: 81.1%, ÷: 94.1%
+  Class 3: +: 68.8%, -: 66.0%, ×: 89.0%
+-------------------------------------
+Student: MOHAMMAD SAEID ALI (20000551883)
+Class: 4 | Type: NON-TARGET
+Location: RANGA REDDY, CHEVELLA | School: MPPS TANGADAPALLY (36232100802)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 30.0% → Final (Practice) 78.7% (Imp: 48.7%)
+Exit MD Accuracy: 36.7%
+Effort: 45 sessions, 1024 mins, 1794 attempts
+Sample Mistakes: 0 + 6 = ? (answered 0); 7 - 7 = ? (answered 07); 6 - 4 = ? (answered 5)
+Sample Masteries: 564 - 477 = 087; 198 - 99 = 099; 724 - 45 = 679
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '66.7%', 'Class 2': '26.2%', 'Class 3': '0.0%'}
+Practice Accuracy Table: {'Class 1': '98.8%', 'Class 2': '80.1%', 'Class 3': '69.1%'}
+MD Operation Breakdown:
+  Class 1: +: 91.7%, -: 41.7%
+  Class 2: +: 58.3%, -: 33.3%, ×: 0.0%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 98.8%
+  Class 2: +: 84.7%, -: 72.5%, ×: 98.7%, ÷: 70.6%
+  Class 3: +: 71.7%, -: 65.9%
+-------------------------------------
+Student: BEGARI DILEEP (20019455861)
+Class: 4 | Type: TARGET
+Location: VIKARABAD, VIKARABAD | School: PMSHRI MPPS PHULMADDI (36240400401)
+Level: Started 1 → Reached 2 (Jump: 1)
+Accuracy: MD 50.0% → Final (Practice) 98.2% (Imp: 48.2%)
+Exit MD Accuracy: 100.0%
+Effort: 32 sessions, 572 mins, 700 attempts
+Sample Mistakes: 7 + 9 = ? (answered 17); 8 + 5 = ? (answered 12); 6 + 8 = ? (answered 13)
+Sample Masteries: 53 - 6 = 47; 62 - 3 = 59; 72 - 5 = 67
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '66.7%', 'Class 2': '45.8%', 'Class 3': '25.0%'}
+Practice Accuracy Table: {'Class 1': '98.6%', 'Class 2': '97.7%', 'Class 3': '-'}
+MD Operation Breakdown:
+  Class 1: +: 75.0%, -: 58.3%
+  Class 2: +: 75.0%, -: 16.7%
+  Class 3: +: 25.0%
+Practice Operation Breakdown:
+  Class 1: +: 98.0%, -: 99.4%
+  Class 2: -: 97.7%
+-------------------------------------
+Student: SHAIK FAIZAN (20623452392)
+Class: 4 | Type: NON-TARGET
+Location: MEDCHAL MALKAJGIRI, KUKATPALLY | School: MPPS YELLAMMABANDA (36210500117)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 41.1% → Final (Practice) 89.1% (Imp: 48.0%)
+Exit MD Accuracy: 90.0%
+Effort: 30 sessions, 992 mins, 2214 attempts
+Sample Mistakes: 4 + 7 = ? (answered 10); 7 + 9 = ? (answered 15); 7 + 7 = ? (answered 13)
+Sample Masteries: 201 + 292 = 493; 300 + 500 = 800; 415 + 550 = 965
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '66.7%', 'Class 2': '26.2%', 'Class 3': '41.7%'}
+Practice Accuracy Table: {'Class 1': '97.3%', 'Class 2': '90.6%', 'Class 3': '82.0%'}
+MD Operation Breakdown:
+  Class 1: +: 66.7%, -: 66.7%
+  Class 2: +: 33.3%, -: 16.7%, ×: 62.5%, ÷: 0.0%
+  Class 3: +: 41.7%, -: 41.7%
+Practice Operation Breakdown:
+  Class 1: +: 96.5%, -: 98.2%
+  Class 2: +: 92.5%, -: 89.9%, ×: 93.6%, ÷: 75.0%
+  Class 3: +: 79.7%, -: 83.8%
+-------------------------------------
+Student: GADDAMIDI RUSHIKA (20060983261)
+Class: 4 | Type: TARGET
+Location: VIKARABAD, VIKARABAD | School: PMSHRI MPPS PHULMADDI (36240400401)
+Level: Started 1 → Reached 3 (Jump: 2)
+Accuracy: MD 30.0% → Final (Practice) 77.8% (Imp: 47.8%)
+Exit MD Accuracy: 34.5%
+Effort: 51 sessions, 1138 mins, 1656 attempts
+Sample Mistakes: 6 + 8 = ? (answered 41); 9 + 9 = ? (answered None); 9 - 6 = ? (answered 15)
+Sample Masteries: 814 - 6 = 808; 582 - 9 = 573; 221 - 9 = 212
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '45.8%', 'Class 2': '35.7%', 'Class 3': '4.2%'}
+Practice Accuracy Table: {'Class 1': '75.9%', 'Class 2': '77.8%', 'Class 3': '78.7%'}
+MD Operation Breakdown:
+  Class 1: +: 83.3%, -: 8.3%
+  Class 2: +: 58.3%, -: 8.3%, ×: 87.5%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 8.3%
+Practice Operation Breakdown:
+  Class 1: -: 75.9%
+  Class 2: +: 84.3%, -: 71.6%, ÷: 70.6%
+  Class 3: +: 77.6%, -: 80.9%
+-------------------------------------
+
+--- TOP 20 LEVEL JUMPERS (Progression) ---
+Student: DUMPA CHINTU (20002076562)
+Class: 4 | Type: TARGET
+Location: KHAMMAM, KHAMMAM (URBAN) | School: GOVT. PS NSC KHAMMAM (36311092602)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 50.8% → Final (Practice) 80.5% (Imp: 29.7%)
+Exit MD Accuracy: 72.4%
+Effort: 26 sessions, 1521 mins, 2134 attempts
+Sample Mistakes: 9 - 6 = ? (answered 15); 7 - 7 = ? (answered 14); 8 - 5 = ? (answered 13)
+Sample Masteries: 1594 + 2738 = 4332; 0 + 0 = 4073; 0 + 0 = 5715
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '45.2%', 'Class 3': '45.8%', 'Class 4': '83.3%'}
+Practice Accuracy Table: {'Class 1': '91.8%', 'Class 2': '86.4%', 'Class 3': '72.0%', 'Class 4': '97.2%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 91.7%, -: 0.0%, ×: 100.0%, ÷: 0.0%
+  Class 3: +: 75.0%, -: 16.7%, ×: 43.8%, ÷: 50.0%
+  Class 4: +: 83.3%
+Practice Operation Breakdown:
+  Class 1: -: 91.8%
+  Class 2: -: 87.6%, ÷: 70.6%
+  Class 3: +: 86.0%, -: 72.7%, ×: 63.5%, ÷: 59.3%
+  Class 4: +: 97.2%
+-------------------------------------
+Student: SANDYA SRAVANTHI (20002886399)
+Class: 4 | Type: TARGET
+Location: JOGULAMBA GADWAL, WADDEPALLE | School: MPPS TANAGALA (36260900101)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 56.3% → Final (Practice) 66.0% (Imp: 9.7%)
+Exit MD Accuracy: 58.9%
+Effort: 49 sessions, 1136 mins, 2734 attempts
+Sample Mistakes: 4 + 0 = ? (answered None); 6 + 8 = ? (answered None); 9 + 9 = ? (answered 1)
+Sample Masteries: 998 + 88 = 1086; 5 + 3495 = 3500; 1543 + 2043 = 3586
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '79.2%', 'Class 2': '26.2%', 'Class 3': '62.5%', 'Class 4': '91.7%'}
+Practice Accuracy Table: {'Class 1': '95.5%', 'Class 2': '69.1%', 'Class 3': '61.5%', 'Class 4': '50.2%'}
+MD Operation Breakdown:
+  Class 1: +: 75.0%, -: 83.3%
+  Class 2: +: 25.0%, -: 25.0%, ×: 62.5%, ÷: 0.0%
+  Class 3: +: 100.0%, -: 25.0%, ×: 75.0%, ÷: 37.5%
+  Class 4: +: 91.7%
+Practice Operation Breakdown:
+  Class 1: +: 95.5%
+  Class 2: +: 86.7%, -: 60.4%, ×: 53.8%, ÷: 10.4%
+  Class 3: +: 58.8%, -: 58.0%, ×: 36.8%, ÷: 82.5%
+  Class 4: +: 50.2%
+-------------------------------------
+Student: TALARI SANVIKA (20006552268)
+Class: 4 | Type: TARGET
+Location: MEDAK, HAVELIGHANPUR | School: MPPS BURUGUPALLY (36170600401)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 31.0% → Final (Practice) 55.2% (Imp: 24.2%)
+Exit MD Accuracy: 31.7%
+Effort: 27 sessions, 1511 mins, 2263 attempts
+Sample Mistakes: 9 - 6 = ? (answered 15); 7 - 7 = ? (answered 14); 8 - 5 = ? (answered 13)
+Sample Masteries: 3 + 1198 = 1201; 5439 + 1932 = 7371; 3265 + 265 = 3530
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '50.0%', 'Class 3': '10.4%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '94.1%', 'Class 2': '62.4%', 'Class 3': '47.8%', 'Class 4': '46.9%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 83.3%, -: 33.3%, ×: 87.5%, ÷: 0.0%
+  Class 3: +: 8.3%, -: 16.7%, ×: 12.5%, ÷: 0.0%
+  Class 4: +: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 94.1%
+  Class 2: -: 65.9%, ÷: 29.2%
+  Class 3: +: 70.0%, -: 46.8%, ×: 35.1%, ÷: 32.1%
+  Class 4: +: 46.9%
+-------------------------------------
+Student: BODDU NANDU (20768656213)
+Class: 4 | Type: NON-TARGET
+Location: JAYASHANKAR BHUPALAPALLY, KATARAM | School: MPPS CHINTHAKANI (36080403002)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 51.6% → Final (Practice) 74.3% (Imp: 22.7%)
+Exit MD Accuracy: 55.0%
+Effort: 38 sessions, 732 mins, 1801 attempts
+Sample Mistakes: 5 - 0 = ? (answered 50); 8 - 5 = ? (answered 4); 6 - 4 = ? (answered 4)
+Sample Masteries: 2123 + 1289 = 3412; 4550 + 660 = 5210; 7645 + 1156 = 8801
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '58.3%', 'Class 2': '64.3%', 'Class 3': '43.8%', 'Class 4': '25.0%'}
+Practice Accuracy Table: {'Class 1': '99.4%', 'Class 2': '84.0%', 'Class 3': '62.6%', 'Class 4': '78.4%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 16.7%
+  Class 2: +: 91.7%, -: 0.0%, ×: 100.0%, ÷: 80.0%
+  Class 3: +: 91.7%, -: 0.0%, ×: 56.2%, ÷: 12.5%
+  Class 4: +: 25.0%
+Practice Operation Breakdown:
+  Class 1: -: 99.4%
+  Class 2: -: 84.0%
+  Class 3: -: 72.0%, ×: 41.7%, ÷: 67.0%
+  Class 4: +: 78.4%
+-------------------------------------
+Student: MARGAM SRI VARSHITH (20011469068)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, ALWAL | School: MPPS YAPRAL (36210700801)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 18.5% → Final (Practice) 48.7% (Imp: 30.2%)
+Exit MD Accuracy: 17.7%
+Effort: 50 sessions, 1478 mins, 3859 attempts
+Sample Mistakes: 9 - 6 = ? (answered 15); 7 - 7 = ? (answered 14); 8 - 5 = ? (answered 13)
+Sample Masteries: 0 ÷ 0 = 582; 0 ÷ 0 = 1000; 0 ÷ 0 = 1022
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '31.0%', 'Class 3': '8.3%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '100.0%', 'Class 2': '83.1%', 'Class 3': '42.1%', 'Class 4': '15.1%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 50.0%, -: 8.3%, ×: 75.0%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 25.0%, ×: 6.2%, ÷: 0.0%
+  Class 4: +: 0.0%, -: 0.0%, ×: 0.0%, ÷: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 100.0%
+  Class 2: +: 87.8%, -: 78.5%, ×: 97.4%, ÷: 58.3%
+  Class 3: +: 69.2%, -: 46.2%, ×: 28.4%, ÷: 17.5%
+  Class 4: +: 27.9%, -: 16.8%, ×: 1.9%, ÷: 5.5%
+-------------------------------------
+Student: BATHULA VENNELA (20012090005)
+Class: 4 | Type: TARGET
+Location: SURYAPET, NADIGUDEM | School: MPPS VALLAPURAM (36301300502)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 73.2% → Final (Practice) 91.7% (Imp: 18.5%)
+Exit MD Accuracy: 100.0%
+Effort: 22 sessions, 2602 mins, 1640 attempts
+Sample Mistakes: 4 + 7 = ? (answered 10); 7 + 9 = ? (answered None); 8 + 5 = ? (answered 8)
+Sample Masteries: 7004 - 1452 = 5552; 4007 - 231 = 3776; 6008 - 2533 = 3475
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '66.7%', 'Class 2': '78.6%', 'Class 3': '70.8%', 'Class 4': '75.0%'}
+Practice Accuracy Table: {'Class 1': '89.4%', 'Class 2': '98.2%', 'Class 3': '86.9%', 'Class 4': '93.7%'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 75.0%
+  Class 2: +: 33.3%, -: 100.0%, ×: 100.0%, ÷: 90.0%
+  Class 3: +: 83.3%, -: 33.3%, ×: 87.5%, ÷: 75.0%
+  Class 4: +: 83.3%, -: 66.7%
+Practice Operation Breakdown:
+  Class 1: +: 87.6%, -: 97.7%
+  Class 2: +: 98.2%
+  Class 3: +: 97.6%, -: 80.3%, ÷: 90.7%
+  Class 4: -: 93.7%
+-------------------------------------
+Student: KANNAM GNANESHWARI (20407027193)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, ALWAL | School: MPPS YAPRAL (36210700801)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 24.1% → Final (Practice) 42.4% (Imp: 18.3%)
+Exit MD Accuracy: 8.5%
+Effort: 48 sessions, 1758 mins, 3717 attempts
+Sample Mistakes: 1 + 4 = ? (answered 4); 4 + 7 = ? (answered 20); 7 + 9 = ? (answered 60)
+Sample Masteries: 0 ÷ 0 = 691; 0 ÷ 0 = 582; 0 ÷ 0 = 158
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '79.2%', 'Class 2': '35.7%', 'Class 3': '8.3%', 'Class 4': '2.1%'}
+Practice Accuracy Table: {'Class 1': '80.6%', 'Class 2': '61.1%', 'Class 3': '35.9%', 'Class 4': '25.2%'}
+MD Operation Breakdown:
+  Class 1: +: 66.7%, -: 91.7%
+  Class 2: +: 75.0%, -: 33.3%, ×: 0.0%, ÷: 20.0%
+  Class 3: +: 25.0%, -: 0.0%, ×: 0.0%, ÷: 12.5%
+  Class 4: +: 0.0%, -: 0.0%, ×: 0.0%, ÷: 6.2%
+Practice Operation Breakdown:
+  Class 1: +: 80.6%
+  Class 2: +: 58.6%, -: 56.9%, ×: 94.9%, ÷: 70.6%
+  Class 3: +: 48.2%, -: 35.9%, ×: 28.0%, ÷: 30.2%
+  Class 4: +: 31.9%, -: 40.5%, ×: 1.3%, ÷: 6.8%
+-------------------------------------
+Student: KOLLURI VISHNU VARDHAN (20008913450)
+Class: 4 | Type: TARGET
+Location: MEDAK, HAVELIGHANPUR | School: MPPS BURUGUPALLY (36170600401)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 15.4% → Final (Practice) 46.5% (Imp: 31.1%)
+Exit MD Accuracy: 14.1%
+Effort: 30 sessions, 2538 mins, 3833 attempts
+Sample Mistakes: 2 + 7 = ? (answered 28); 5 + 3 = ? (answered 28); 1 + 4 = ? (answered 4)
+Sample Masteries: 0 ÷ 0 = 691; 0 ÷ 0 = 11; 0 ÷ 0 = 170
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '20.8%', 'Class 2': '42.9%', 'Class 3': '4.2%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '77.2%', 'Class 2': '54.3%', 'Class 3': '46.2%', 'Class 4': '28.9%'}
+MD Operation Breakdown:
+  Class 1: +: 41.7%, -: 0.0%
+  Class 2: +: 83.3%, -: 0.0%, ×: 87.5%, ÷: 10.0%
+  Class 3: +: 8.3%, -: 0.0%, ×: 6.2%, ÷: 0.0%
+  Class 4: +: 0.0%, -: 0.0%, ×: 0.0%, ÷: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 90.0%, -: 60.8%
+  Class 2: +: 67.8%, -: 37.8%, ÷: 67.6%
+  Class 3: +: 56.6%, -: 41.8%, ×: 43.5%, ÷: 43.9%
+  Class 4: +: 46.1%, -: 31.8%, ×: 7.5%, ÷: 17.3%
+-------------------------------------
+Student: VALLAMPATLA REHHARAMALA (20657530655)
+Class: 4 | Type: TARGET
+Location: NALGONDA, VEMULAPALLE | School: MPPS AMANGAL (36292000101)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 44.7% → Final (Practice) 81.7% (Imp: 37.0%)
+Exit MD Accuracy: 94.1%
+Effort: 36 sessions, 1510 mins, 1604 attempts
+Sample Mistakes: 4 + 0 = ? (answered 444444); 1 + 4 = ? (answered 4); 9 - 6 = ? (answered 15)
+Sample Masteries: 29 + 1509 = 1538; 1543 + 2043 = 3586; 7658 + 22 = 7680
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '45.8%', 'Class 2': '54.8%', 'Class 3': '37.5%', 'Class 4': '33.3%'}
+Practice Accuracy Table: {'Class 1': '94.7%', 'Class 2': '82.1%', 'Class 3': '83.1%', 'Class 4': '71.4%'}
+MD Operation Breakdown:
+  Class 1: +: 83.3%, -: 8.3%
+  Class 2: +: 100.0%, -: 8.3%, ×: 87.5%, ÷: 30.0%
+  Class 3: +: 75.0%, -: 0.0%
+  Class 4: +: 58.3%, -: 8.3%
+Practice Operation Breakdown:
+  Class 1: -: 94.7%
+  Class 2: -: 81.9%, ÷: 85.3%
+  Class 3: +: 83.2%, -: 83.1%
+  Class 4: +: 71.4%
+-------------------------------------
+Student: KAVALI INDHU (20637853205)
+Class: 4 | Type: TARGET
+Location: VIKARABAD, DOMA | School: MPPS BOMPALLY (36240800502)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 31.9% → Final (Practice) 65.8% (Imp: 33.9%)
+Exit MD Accuracy: 24.5%
+Effort: 50 sessions, 1420 mins, 2940 attempts
+Sample Mistakes: 4 + 0 = ? (answered 5); 6 + 8 = ? (answered 13); 9 - 6 = ? (answered 15)
+Sample Masteries: 0 - 0 = 721; 7185 - 4592 = 2593; 11 - 2 = 9
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '42.9%', 'Class 3': '14.6%', 'Class 4': '25.0%'}
+Practice Accuracy Table: {'Class 1': '74.1%', 'Class 2': '73.0%', 'Class 3': '56.3%', 'Class 4': '72.6%'}
+MD Operation Breakdown:
+  Class 1: +: 83.3%, -: 25.0%
+  Class 2: +: 75.0%, -: 33.3%, ×: 62.5%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 0.0%, ×: 31.2%, ÷: 25.0%
+  Class 4: +: 50.0%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 74.1%
+  Class 2: +: 89.5%, -: 53.5%, ×: 97.4%, ÷: 66.7%
+  Class 3: +: 79.9%, -: 39.3%, ×: 44.3%, ÷: 64.6%
+  Class 4: +: 80.8%, -: 62.5%
+-------------------------------------
+Student: REPOLU MOJESH (20390974261)
+Class: 4 | Type: TARGET
+Location: JOGULAMBA GADWAL, RAJOLI | School: MPPS PEDDA TANDRAPAD (36260800703)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 15.1% → Final (Practice) 38.0% (Imp: 22.9%)
+Exit MD Accuracy: 1.7%
+Effort: 50 sessions, 1863 mins, 3431 attempts
+Sample Mistakes: 2 + 7 = ? (answered 27); 5 + 3 = ? (answered 35); 1 + 4 = ? (answered 41)
+Sample Masteries: 5 × 0 = 0; 0 × 0 = 1233; 9210 - 1111 = 8099
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '8.3%', 'Class 2': '19.0%', 'Class 3': '25.0%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '51.8%', 'Class 2': '54.4%', 'Class 3': '30.2%', 'Class 4': '18.4%'}
+MD Operation Breakdown:
+  Class 1: +: 16.7%, -: 0.0%
+  Class 2: +: 16.7%, -: 0.0%, ×: 75.0%, ÷: 0.0%
+  Class 3: +: 100.0%, -: 0.0%, ×: 0.0%, ÷: 0.0%
+  Class 4: +: 0.0%, -: 0.0%, ×: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 45.8%, -: 58.8%
+  Class 2: +: 50.6%, -: 53.8%, ×: 76.9%, ÷: 60.4%
+  Class 3: +: 34.0%, -: 32.0%, ×: 28.4%, ÷: 24.5%
+  Class 4: +: 17.5%, -: 20.5%, ×: 5.3%
+-------------------------------------
+Student: BASHABOINA AKSHITHA (20014552684)
+Class: 4 | Type: TARGET
+Location: JANGAON, THARIGOPPULA | School: MPPS ABDULNAGARAM (36190100802)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 64.3% → Final (Practice) 69.7% (Imp: 5.4%)
+Exit MD Accuracy: 100.0%
+Effort: 24 sessions, 1021 mins, 1220 attempts
+Sample Mistakes: 8 - 5 = ? (answered 2); 12 - 8 = ? (answered 44); 15 - 6 = ? (answered 665)
+Sample Masteries: 29 + 3989 = 4018; 3345 + 951 = 4296; 6 + 2003 = 2009
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '58.3%', 'Class 2': '79.2%', 'Class 3': '50.0%', 'Class 4': '83.3%', 'Class 5': '41.7%'}
+Practice Accuracy Table: {'Class 1': '95.6%', 'Class 2': '59.7%', 'Class 3': '80.5%', 'Class 4': '59.3%', 'Class 5': '-'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 16.7%
+  Class 2: +: 100.0%, -: 58.3%
+  Class 3: +: 50.0%
+  Class 4: +: 83.3%
+  Class 5: +: 41.7%
+Practice Operation Breakdown:
+  Class 1: -: 95.6%
+  Class 2: -: 59.7%
+  Class 3: +: 80.5%
+  Class 4: +: 59.3%
+-------------------------------------
+Student: VADLAKONDA SAIKUMAR (20615944310)
+Class: 4 | Type: TARGET
+Location: JANGAON, DEVARUPPALA | School: MPPS NEERMALA (36191000201)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 18.1% → Final (Practice) 51.7% (Imp: 33.6%)
+Exit MD Accuracy: 17.8%
+Effort: 74 sessions, 1616 mins, 3129 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 5 + 3 = ? (answered 15); 1 + 4 = ? (answered 4)
+Sample Masteries: 4721 - 8 = 4713; 3470 - 363 = 3107; 8030 - 26 = 8004
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '37.5%', 'Class 2': '28.6%', 'Class 3': '8.3%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '87.6%', 'Class 2': '65.9%', 'Class 3': '35.9%', 'Class 4': '27.9%'}
+MD Operation Breakdown:
+  Class 1: +: 16.7%, -: 58.3%
+  Class 2: +: 75.0%, -: 0.0%, ×: 37.5%, ÷: 0.0%
+  Class 3: +: 25.0%, -: 0.0%, ×: 6.2%, ÷: 0.0%
+  Class 4: +: 0.0%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 89.6%, -: 85.3%
+  Class 2: +: 74.8%, -: 54.8%, ×: 84.6%, ÷: 47.1%
+  Class 3: +: 79.0%, -: 25.3%, ×: 21.4%, ÷: 17.0%
+  Class 4: +: 24.6%, -: 37.0%
+-------------------------------------
+Student: ADEY SUDHAKAR (20136341325)
+Class: 4 | Type: TARGET
+Location: NIRMAL, TANUR | School: MPPS BELTARODA (36040200301)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 21.4% → Final (Practice) 49.3% (Imp: 27.9%)
+Exit MD Accuracy: 16.0%
+Effort: 32 sessions, 2048 mins, 2639 attempts
+Sample Mistakes: 2 + 7 = ? (answered 55); 5 + 3 = ? (answered 2); 4 + 0 = ? (answered 3)
+Sample Masteries: 0 + 0 = 7203; 0 + 0 = 2524; 1153 + 853 = 2006
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '8.3%', 'Class 2': '26.2%', 'Class 3': '10.4%', 'Class 4': '75.0%'}
+Practice Accuracy Table: {'Class 1': '51.9%', 'Class 2': '60.4%', 'Class 3': '39.8%', 'Class 4': '36.5%'}
+MD Operation Breakdown:
+  Class 1: +: 0.0%, -: 16.7%
+  Class 2: +: 8.3%, -: 25.0%, ×: 87.5%, ÷: 0.0%
+  Class 3: +: 0.0%, -: 0.0%, ×: 31.2%, ÷: 0.0%
+  Class 4: +: 75.0%
+Practice Operation Breakdown:
+  Class 1: +: 34.9%, -: 72.2%
+  Class 2: +: 68.2%, -: 51.3%, ÷: 73.5%
+  Class 3: +: 45.6%, -: 39.3%, ×: 31.8%, ÷: 41.0%
+  Class 4: +: 36.5%
+-------------------------------------
+Student: KUNDALA SAI HARSHA (20120563570)
+Class: 4 | Type: TARGET
+Location: KHAMMAM, KHAMMAM (URBAN) | School: GOVT. PS NSC KHAMMAM (36311092602)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 37.7% → Final (Practice) 80.3% (Imp: 42.6%)
+Exit MD Accuracy: 67.0%
+Effort: 37 sessions, 1632 mins, 3127 attempts
+Sample Mistakes: 9 - 6 = ? (answered 15); 7 - 7 = ? (answered 14); 8 - 5 = ? (answered 13)
+Sample Masteries: 300 - 4 = 296; 18 - 9 = 9; 10 - 4 = 6
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '26.2%', 'Class 3': '45.8%', 'Class 4': '25.0%'}
+Practice Accuracy Table: {'Class 1': '89.4%', 'Class 2': '85.9%', 'Class 3': '70.4%', 'Class 4': '88.8%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 75.0%, -: 8.3%, ×: 12.5%, ÷: 0.0%
+  Class 3: +: 83.3%, -: 66.7%, ×: 25.0%, ÷: 0.0%
+  Class 4: +: 25.0%, -: 25.0%
+Practice Operation Breakdown:
+  Class 1: -: 89.4%
+  Class 2: +: 95.9%, -: 81.3%, ×: 83.3%, ÷: 41.7%
+  Class 3: +: 88.3%, -: 80.0%, ×: 60.1%, ÷: 41.5%
+  Class 4: +: 96.0%, -: 78.7%
+-------------------------------------
+Student: SANDHYAPOGU JESSY (20122915905)
+Class: 4 | Type: TARGET
+Location: JOGULAMBA GADWAL, WADDEPALLE | School: MPPS TANAGALA (36260900101)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 29.4% → Final (Practice) 49.8% (Imp: 20.4%)
+Exit MD Accuracy: 41.4%
+Effort: 48 sessions, 1016 mins, 2697 attempts
+Sample Mistakes: 5 + 3 = ? (answered None); 4 + 7 = ? (answered 111); 9 - 6 = ? (answered 15)
+Sample Masteries: 0 + 0 = 1226; 6 + 1356 = 1362; 6504 + 18 = 6522
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '62.5%', 'Class 2': '23.8%', 'Class 3': '16.7%', 'Class 4': '33.3%'}
+Practice Accuracy Table: {'Class 1': '82.9%', 'Class 2': '61.8%', 'Class 3': '37.2%', 'Class 4': '38.9%'}
+MD Operation Breakdown:
+  Class 1: +: 83.3%, -: 41.7%
+  Class 2: +: 8.3%, -: 8.3%, ×: 100.0%, ÷: 0.0%
+  Class 3: +: 41.7%, -: 8.3%, ×: 12.5%, ÷: 0.0%
+  Class 4: +: 33.3%
+Practice Operation Breakdown:
+  Class 1: -: 82.9%
+  Class 2: +: 82.3%, -: 46.4%, ÷: 14.6%
+  Class 3: +: 48.3%, -: 27.4%, ×: 39.9%, ÷: 35.8%
+  Class 4: +: 38.9%
+-------------------------------------
+Student: JANNU LUCKY (20210026723)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, ALWAL | School: MPPS YAPRAL (36210700801)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 20.4% → Final (Practice) 47.9% (Imp: 27.5%)
+Exit MD Accuracy: 7.8%
+Effort: 43 sessions, 2224 mins, 3686 attempts
+Sample Mistakes: 7 + 7 = ? (answered 15); 9 - 6 = ? (answered 4); 5 - 0 = ? (answered 0)
+Sample Masteries: 0 ÷ 0 = 170; 0 ÷ 0 = 691; 0 ÷ 0 = 582
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '58.3%', 'Class 2': '35.7%', 'Class 3': '8.3%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '81.2%', 'Class 2': '65.8%', 'Class 3': '52.1%', 'Class 4': '19.9%'}
+MD Operation Breakdown:
+  Class 1: +: 91.7%, -: 25.0%
+  Class 2: +: 75.0%, -: 0.0%, ×: 75.0%, ÷: 0.0%
+  Class 3: +: 8.3%, -: 0.0%, ×: 12.5%, ÷: 12.5%
+  Class 4: +: 0.0%, -: 0.0%, ×: 0.0%, ÷: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 81.2%
+  Class 2: +: 62.5%, -: 63.7%, ×: 98.7%, ÷: 64.7%
+  Class 3: +: 68.4%, -: 50.8%, ×: 40.2%, ÷: 49.1%
+  Class 4: +: 24.6%, -: 24.6%, ×: 6.9%, ÷: 16.0%
+-------------------------------------
+Student: JUTTOLA ESHAN (20015574772)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, MEDCHEL | School: MPPS RLY STATION RAOD (36210102711)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 33.3% → Final (Practice) 69.2% (Imp: 35.9%)
+Exit MD Accuracy: 26.8%
+Effort: 34 sessions, 1070 mins, 2630 attempts
+Sample Mistakes: 4 + 0 = ? (answered 0); 0 + 6 = ? (answered 0); 7 + 7 = ? (answered 46)
+Sample Masteries: 1253 + 753 = 2006; 1153 + 853 = 2006; 3245 + 1007 = 4252
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '70.8%', 'Class 2': '42.9%', 'Class 3': '14.6%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '78.6%', 'Class 2': '82.2%', 'Class 3': '55.6%', 'Class 4': '78.7%'}
+MD Operation Breakdown:
+  Class 1: +: 58.3%, -: 83.3%
+  Class 2: +: 75.0%, -: 25.0%, ×: 75.0%, ÷: 0.0%
+  Class 3: +: 25.0%, -: 8.3%, ×: 18.8%, ÷: 0.0%
+  Class 4: +: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 78.6%
+  Class 2: +: 91.1%, -: 73.9%, ÷: 70.6%
+  Class 3: +: 75.7%, -: 52.4%, ×: 43.9%, ÷: 50.0%
+  Class 4: +: 78.7%
+-------------------------------------
+Student: KUPPA SAIKIRAN (20016401047)
+Class: 4 | Type: TARGET
+Location: NARAYANPET, DAMARAGIDDA | School: MPPS DAMARAGIDDA (C) (36330102201)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 26.8% → Final (Practice) 55.6% (Imp: 28.8%)
+Exit MD Accuracy: 28.4%
+Effort: 29 sessions, 2089 mins, 2552 attempts
+Sample Mistakes: 9 - 6 = ? (answered 855); 6 - 4 = ? (answered 780); 15 - 6 = ? (answered 46)
+Sample Masteries: 14 - 5 = 9; 17 - 8 = 9; 11 - 2 = 9
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '54.2%', 'Class 2': '35.7%', 'Class 3': '18.8%', 'Class 4': '0.0%'}
+Practice Accuracy Table: {'Class 1': '79.7%', 'Class 2': '61.6%', 'Class 3': '47.8%', 'Class 4': '59.5%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 8.3%
+  Class 2: +: 83.3%, -: 25.0%, ×: 25.0%, ÷: 0.0%
+  Class 3: +: 66.7%, -: 8.3%, ×: 0.0%, ÷: 0.0%
+  Class 4: +: 0.0%, -: 0.0%
+Practice Operation Breakdown:
+  Class 1: -: 79.7%
+  Class 2: -: 55.7%, ×: 93.6%, ÷: 61.8%
+  Class 3: +: 76.1%, -: 44.0%, ×: 35.1%, ÷: 34.0%
+  Class 4: +: 66.7%, -: 45.9%
+-------------------------------------
+Student: POONAM (20286207748)
+Class: 4 | Type: TARGET
+Location: MEDCHAL MALKAJGIRI, ALWAL | School: MPPS YAPRAL (36210700801)
+Level: Started 1 → Reached 4 (Jump: 3)
+Accuracy: MD 35.2% → Final (Practice) 64.2% (Imp: 29.0%)
+Exit MD Accuracy: 21.7%
+Effort: 55 sessions, 1836 mins, 3770 attempts
+Sample Mistakes: 2 + 7 = ? (answered 14); 4 + 7 = ? (answered 14); 7 + 9 = ? (answered 17)
+Sample Masteries: 0 ÷ 0 = 374; 0 ÷ 0 = 805; 0 ÷ 0 = 158
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '79.2%', 'Class 2': '61.9%', 'Class 3': '22.9%', 'Class 4': '2.1%'}
+Practice Accuracy Table: {'Class 1': '97.0%', 'Class 2': '88.1%', 'Class 3': '67.9%', 'Class 4': '32.0%'}
+MD Operation Breakdown:
+  Class 1: +: 75.0%, -: 83.3%
+  Class 2: +: 58.3%, -: 75.0%, ×: 100.0%, ÷: 20.0%
+  Class 3: +: 58.3%, -: 8.3%, ×: 18.8%, ÷: 0.0%
+  Class 4: +: 8.3%, -: 0.0%, ×: 0.0%, ÷: 0.0%
+Practice Operation Breakdown:
+  Class 1: +: 97.0%
+  Class 2: +: 93.4%, -: 85.5%, ÷: 62.5%
+  Class 3: +: 91.0%, -: 71.4%, ×: 48.3%, ÷: 54.6%
+  Class 4: +: 59.3%, -: 31.2%, ×: 9.4%, ÷: 13.9%
+-------------------------------------
+
+--- TOP 20 STRUGGLERS (High Effort, Low Gain) ---
+Student: YERADESI SRINIVAS (20016745069)
+Class: 4 | Type: TARGET
+Location: SURYAPET, NADIGUDEM | School: MPPS VALLAPURAM (36301300502)
+Level: Started 4 → Reached 4 (Jump: 0)
+Accuracy: MD 91.1% → Final (Practice) 89.9% (Imp: -1.2%)
+Exit MD Accuracy: 100.0%
+Effort: 25 sessions, 1496 mins, 1731 attempts
+Sample Mistakes: 64 + 34 = ? (answered 108); 52 - 5 = ? (answered 37); 43 - 17 = ? (answered 23)
+Sample Masteries: 216 × 33 = 7128; 124 × 23 = 2852; 241 × 23 = 5543
+
+--- Details ---
+MD Accuracy Table: {'Class 1': '100.0%', 'Class 2': '81.0%', 'Class 3': '97.9%', 'Class 4': '87.5%'}
+Practice Accuracy Table: {'Class 1': '-', 'Class 2': '94.6%', 'Class 3': '87.1%', 'Class 4': '90.9%'}
+MD Operation Breakdown:
+  Class 1: +: 100.0%, -: 100.0%
+  Class 2: +: 91.7%, -: 66.7%, ×: 100.0%, ÷: 70.0%
+  Class 3: +: 100.0%, -: 91.7%, ×: 100.0%, ÷: 100.0%
+  Class 4: +: 100.0%, -: 83.3%, ×: 75.0%
+Practice Operation Breakdown:
+  Class 2: -: 94.9%, ÷: 91.7%
+  Class 3: +: 99.3%, -: 77.5%, ×: 87.8%
+  Class 4: ×: 90.9%
+-------------------------------------
+
+--- DEMOGRAPHIC ANALYSIS (Active Learners > 20 Sessions) ---
+
+[District Breakdown]
+Name                           | Count  | Avg Imp   
+----------------------------------------------------
+YADADRI BHUVANAGIRI            | 4.0    | 36.0%
+JAGITIAL                       | 16.0   | 31.3%
+NIRMAL                         | 1.0    | 27.9%
+SANGAREDDY                     | 21.0   | 27.4%
+HYDERABAD                      | 99.0   | 25.5%
+JANGAON                        | 10.0   | 24.9%
+MULUGU                         | 1.0    | 23.9%
+MAHABUBNAGAR                   | 14.0   | 23.6%
+MEDCHAL MALKAJGIRI             | 106.0  | 23.3%
+JAYASHANKAR BHUPALAPALLY       | 6.0    | 22.7%
+
+[Mandal Breakdown]
+Name                           | Count  | Avg Imp   
+----------------------------------------------------
+DEVARKADARA                    | 1.0    | 62.1%
+RAMANNAPETA                    | 2.0    | 46.3%
+KODIMIAL                       | 7.0    | 43.2%
+KOTHAKOTA                      | 2.0    | 41.3%
+RAMAGUNDAM                     | 1.0    | 41.2%
+MIDJIL                         | 1.0    | 40.2%
+BHEEMGAL                       | 2.0    | 38.7%
+PATANCHERU                     | 10.0   | 37.0%
+DEVARUPPALA                    | 6.0    | 35.1%
+SECUNDERABAD II (EB)           | 7.0    | 33.7%
+
+[Student Type Breakdown]
+Name                           | Count  | Avg Imp   
+----------------------------------------------------
+TARGET                         | 635.0  | 21.1%
+N/A                            | 20.0   | 18.9%
+NON-TARGET                     | 102.0  | 18.4%
+
+[Top Schools (by Imp) Breakdown]
+Name                           | Count  | Avg Imp   
+----------------------------------------------------
+ZPHS MANNEGUDEM                | 1.0    | 79.8%
+MPPS KOILSAGAR                 | 1.0    | 62.1%
+GOVT. PS (B) BALAMRAI          | 1.0    | 49.3%
+MPPS KAMSANPALLY               | 1.0    | 47.1%
+MPPS HW INDRAPALANAGARAM       | 2.0    | 46.3%
+GOVT. PS NEHRUMEMORIAL MALAKPE | 2.0    | 43.3%
+MPPS CHEPPIAL                  | 7.0    | 43.2%
+MPPS CHINNAMADUR               | 1.0    | 42.0%
+MPPS KOTHAKOTA (MRC)           | 2.0    | 41.3%
+MPPS GANDHI PARK(UM)           | 1.0    | 41.2%
+
+--- GLOBAL OPERATION STATS ---
+Addition:
+  MD: 73.3%
+  Practice: 81.9%
+  Exit MD: 68.7%
+
+Division:
+  MD: 48.1%
+  Practice: 64.5%
+  Exit MD: 42.5%
+
+Multiplication:
+  MD: 70.2%
+  Practice: 64.9%
+  Exit MD: 54.7%
+
+Subtraction:
+  MD: 65.2%
+  Practice: 74.9%
+  Exit MD: 63.7%
+
+Time:
+  MD: nan%
+  Practice: 78.6%
+  Exit MD: nan%
+

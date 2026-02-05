@@ -1,0 +1,34 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Large Data Files (Excluding from upload)
+*.csv
+*.xlsx
+!GOV_Reports/*.csv
+
+# Specific large files
+FinalData.csv
+telangana.csv
+telanganasample.csv
+student_data.csv
+Excellent.csv
+Class 6- Telengana.csv
+Class 6- Telengana1.csv
+Angel.csv
+ILMA.csv
+JAIHIND.csv
+LoyolaKannada.csv
+Raintree.csv
+Reliance.csv
+Shantiniketan.csv
+GOODSHEPHERD.csv
+
+# Reports and logs
+error.log
+PRIVATE_Reports/
+output/
+content_analysis_output/
